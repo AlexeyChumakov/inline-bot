@@ -1,0 +1,17 @@
+{
+  "name": "ftek_telegram_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for FTEK logistics company",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.16.1",
+    "dotenv": "^16.4.5"
+  }
+}
+
